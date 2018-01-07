@@ -2,7 +2,7 @@
 function happyHolidays() {
   return "Happy holidays!"
 }
-var name = 'Ian';
+var butt = "Ian";
 function happyHolidaysTo(name) {
   return "Happy holidays, you!"
 }
